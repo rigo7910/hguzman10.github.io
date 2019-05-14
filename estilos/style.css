@@ -1,0 +1,56 @@
+*{
+	margin: 0px;
+}
+
+h1{
+	text-align: center;
+}
+
+body{
+	background-color: #0ff; 
+}
+
+.titulo{
+	padding: 25px;
+	background-color: #000;
+	color: #fff;
+}
+
+#video1{
+	float: left;
+	width: 50%;
+	height: 25px;
+}
+
+#video2{
+	float: right;
+	width: 50%;
+	height: 25px;
+}
+
+#video3{
+	margin-left:330px;
+	width: 50%;
+	height: 25px;
+	
+}
+
+#video4{
+	
+	margin-left: 1000px;
+	width: 50%;
+	height: 25px;
+}
+
+section{
+	background-color: #0ff;
+}
+
+.videos{
+	margin: 10px 10px 10px 10px;
+}
+
+footer{
+	margin-top: 300px;
+	text-align: center;
+}
